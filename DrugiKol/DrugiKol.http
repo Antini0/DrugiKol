@@ -1,0 +1,6 @@
+@DrugiKol_HostAddress = http://localhost:5173
+
+GET {{DrugiKol_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
